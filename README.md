@@ -1,4 +1,4 @@
-# 🎄 Calendrier de l'Avent (Nova Life) 🎁
+# 🎄 AdventCalendar 🎁
 
 Ce plugin permet à vos joueurs d'ouvrir une case chaque jour en décembre pour gagner de l'argent. Simple, sécurisé et entièrement configurable (enfin il n'est seulement possible de faire gagner de l'argent pour l'instant).
 
