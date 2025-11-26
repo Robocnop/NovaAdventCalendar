@@ -68,3 +68,30 @@ Voici à quoi il ressemble et comment le modifier :
 
 -----
 
+Absolument \! Voici un résumé convivial de la licence GNU GPLv3 à ajouter à votre fichier `README.md`, avec les citations demandées :
+
+-----
+
+## 📜 Licence
+
+Ce projet est distribué sous la licence **GNU General Public License v3.0** (GPLv3).
+
+En bref, cela signifie que vous êtes libre de :
+
+  * **Utiliser** le logiciel à n'importe quelle fin.
+  * **Modifier** le logiciel pour l'adapter à vos besoins.
+  * **Partager** le logiciel avec vos amis et voisins.
+  * **Partager les modifications** que vous apportez.
+  * **Créditer** l'auteur original (donc moi, Robocnop).
+
+Cependant, ces libertés s'accompagnent de certaines responsabilités pour protéger les droits des autres utilisateurs :
+
+  * Si vous distribuez des copies du logiciel (modifiées ou non), vous devez transmettre aux destinataires les mêmes libertés que celles que vous avez reçues.
+  * Vous devez vous assurer qu'ils reçoivent également le code source ou qu'ils peuvent l'obtenir.
+  * Vous devez leur montrer les termes de la licence afin qu'ils connaissent leurs droits.
+
+Pour plus de détails, veuillez consulter le fichier [LICENSE](https://www.google.com/search?q=LICENSE) complet.
+
+-----
+
+N'hésitez pas à copier et coller cette section directement dans votre `README.md`.
