@@ -68,10 +68,6 @@ Voici à quoi il ressemble et comment le modifier :
 
 -----
 
-Absolument \! Voici un résumé convivial de la licence GNU GPLv3 à ajouter à votre fichier `README.md`, avec les citations demandées :
-
------
-
 ## 📜 Licence
 
 Ce projet est distribué sous la licence **GNU General Public License v3.0** (GPLv3).
@@ -91,7 +87,3 @@ Cependant, ces libertés s'accompagnent de certaines responsabilités pour prot�
   * Vous devez leur montrer les termes de la licence afin qu'ils connaissent leurs droits.
 
 Pour plus de détails, veuillez consulter le fichier [LICENSE](https://github.com/Robocnop/NovaAdventCalendar/blob/main/LICENSE) complet.
-
------
-
-N'hésitez pas à copier et coller cette section directement dans votre `README.md`.
