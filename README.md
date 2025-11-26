@@ -90,7 +90,7 @@ Cependant, ces libertés s'accompagnent de certaines responsabilités pour prot�
   * Vous devez vous assurer qu'ils reçoivent également le code source ou qu'ils peuvent l'obtenir.
   * Vous devez leur montrer les termes de la licence afin qu'ils connaissent leurs droits.
 
-Pour plus de détails, veuillez consulter le fichier [LICENSE](https://www.google.com/search?q=LICENSE) complet.
+Pour plus de détails, veuillez consulter le fichier [LICENSE](https://github.com/Robocnop/NovaAdventCalendar/blob/main/LICENSE) complet.
 
 -----
 
