@@ -1,6 +1,5 @@
 # 🎄 Calendrier de l'Avent (Nova Life) 🎁
 
-Ajoutez de la magie de Noël sur votre serveur **Nova Life** \!
 Ce plugin permet à vos joueurs d'ouvrir une case chaque jour en décembre pour gagner de l'argent. Simple, sécurisé et entièrement configurable.
 
   
