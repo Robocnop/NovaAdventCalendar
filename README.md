@@ -10,7 +10,7 @@ Ce plugin permet à vos joueurs d'ouvrir une case chaque jour en décembre pour 
 
   * 📅 **Système Automatique** : Le calendrier ne s'ouvre qu'en **Décembre**. Le reste de l'année, il est fermé \!
   * 💰 **Récompenses Aléatoires** : Définissez une tranche de gains (ex: entre 1000€ et 5000€) pour pimenter l'ouverture quotidienne.
-  * 🎅 **Jackpot de Noël** : Une récompense spéciale et fixe pour le **24 Décembre**.
+  * 🎅 **Jackpot de Noël** : Une récompense spéciale et fixe pour le **24 Décembre** (Grosse somme d'argent).
   * 🔒 **Sécurisé** : Utilise une base de données **SQLite** locale sur le serveur. Impossible de prendre deux fois le même cadeau, même en se déconnectant.
   * 📢 **Logs Discord** : Chaque ouverture de cadeau est envoyée sur votre Discord via Webhook (avec le Nom et SteamID du joueur).
   * ⚙️ **Mode Debug** : Testez votre calendrier même en plein été grâce aux debug dans la config.
