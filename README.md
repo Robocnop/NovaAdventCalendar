@@ -76,7 +76,7 @@ En bref, cela signifie que vous êtes libre de :
 
   * **Utiliser** le logiciel à n'importe quelle fin.
   * **Modifier** le logiciel pour l'adapter à vos besoins.
-  * **Partager** le logiciel avec vos amis et voisins.
+  * **Partager** le logiciel avec vos amis.
   * **Partager les modifications** que vous apportez.
   * **Créditer** l'auteur original (donc moi, Robocnop).
 
